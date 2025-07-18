@@ -1,0 +1,1 @@
+console.log('Hi-way Cafe loaded');
